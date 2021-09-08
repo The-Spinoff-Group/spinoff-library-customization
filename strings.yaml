@@ -3,11 +3,11 @@
 
 # base config in partials/branding, partials/head
 branding:
-  name: Spinoff Libary
-  prettyName: Spinoff Team Library
+  name: Spinoff Group Libary
+  prettyName: Spinoff Group Library
   org: The Spinoff Group
-  icon: /assets/images/icon-logo.svg
-  favicon: https://assets.thespinoff.co.nz/1/favicon.ico
+  icon: /assets/images/logo.jpg
+  favicon: /assets/images/favicon.ico
 
 # pages/categories, pages/index, partials/search
 landing:
@@ -25,7 +25,7 @@ landing:
 
 # partials/footer
 footer:
-  helpText: Questions? Hopefully Ben can help.
+  helpText: Questions? Hit up the #nerds channel in Slack
   defaultEmail: ben@thespinoff.co.nz
   buttons:
     edit: Edit This Page
