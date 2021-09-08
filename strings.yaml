@@ -25,7 +25,7 @@ landing:
 
 # partials/footer
 footer:
-  helpText: Questions? Hit up the \#nerds channel in Slack
+  helpText: "Questions? Hit up the #nerds channel in Slack"
   defaultEmail: ben@thespinoff.co.nz
   buttons:
     edit: Edit This Page
