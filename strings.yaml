@@ -6,8 +6,8 @@ branding:
   name: Spinoff Libary
   prettyName: Spinoff Team Library
   org: The Spinoff Group
-  icon: https://assets.thespinoff.co.nz/1/favicon.ico
-  favicon: /assets/images/library.ico
+  icon: /assets/images/icon-logo.svg
+  favicon: https://assets.thespinoff.co.nz/1/favicon.ico
 
 # pages/categories, pages/index, partials/search
 landing:
@@ -25,7 +25,7 @@ landing:
 
 # partials/footer
 footer:
-  helpText: Questions? Contact your organization's administrators.
+  helpText: Questions? Hopefully Ben can help.
   defaultEmail: ben@thespinoff.co.nz
   buttons:
     edit: Edit This Page
