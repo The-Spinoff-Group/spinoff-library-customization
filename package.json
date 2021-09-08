@@ -1,0 +1,11 @@
+{
+  "name": "library-customization-example",
+  "version": "1.0.0",
+  "description": "Sample customizations for your Library instance",
+  "main": "index.js",
+  "scripts": {},
+  
+  "dependencies": {
+    "express-sslify": "^1.2.0"
+  }
+}
